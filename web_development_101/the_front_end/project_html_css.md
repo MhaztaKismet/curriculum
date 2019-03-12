@@ -2006,6 +2006,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [seawren's Solution (Difficult)](https://github.com/seawren/Imitation-Google-H) - [View in Broswer](https://seawren.github.io/Imitation-Google-H/)
 * [JakeTheFriendlyDog's Solution (Easy)](https://github.com/JakeTheFriendlyDog/google-homepage) - [View in Broswer](https://jakethefriendlydog.github.io/google-homepage/)
 * [Kenneth Z Yashim's solution (Easy)](https://github.com/kzamani44/google-home) - [View in Browser](https://kzamani44.github.io/google-home/)
+*[MhaztaKismet's solution (Easy)]( https://github.com/MhaztaKismet/google-homepage) - [View in Browser](https://mhaztakismet.github.io/google-homepage/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
